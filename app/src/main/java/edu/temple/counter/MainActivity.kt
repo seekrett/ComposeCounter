@@ -44,6 +44,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+// Added comment for github push attempt 2
 @Composable
 fun Counter(modifier: Modifier = Modifier) {
     var number by rememberSaveable {
